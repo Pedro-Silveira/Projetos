@@ -1,6 +1,6 @@
 # Scape From Earth
 
-<img src="https://drive.google.com/file/d/1xKykroikLXEHOcb0t_r252rlAgIj684s/view?usp=sharing" alt="Captura de tela realizada em 08/10/2022.">
+[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
