@@ -1,6 +1,6 @@
 # Scape From Earth
 
-![alt text](https://i.imgur.com/hNQy2lQ.png)
+![Tela capturada em 08/10/2022.](https://i.imgur.com/hNQy2lQ.png)
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
