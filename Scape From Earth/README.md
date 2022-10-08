@@ -1,4 +1,4 @@
-# SCAPE FROM EARTH
+# SCAPE FROM EARTH: A Python + OpenGL Game
 
 ![Tela capturada em 08/10/2022.](https://i.imgur.com/hNQy2lQ.png)
 
@@ -7,5 +7,5 @@
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-* Você instalou a biblioteca `[PyOpenGL](https://pypi.org/project/PyOpenGL/)`.
+* Você instalou a biblioteca [`PyOpenGL`](https://pypi.org/project/PyOpenGL/).
 * Você instalou a biblioteca `[PyGame](https://www.pygame.org/)`.
