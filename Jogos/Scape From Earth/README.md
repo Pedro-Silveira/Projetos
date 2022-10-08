@@ -1,6 +1,6 @@
 # SCAPE FROM EARTH: A Python + OpenGL Game
 
-![Tela capturada em 08/10/2022.](https://i.imgur.com/hNQy2lQ.png)
+![Tela real capturada em 08/10/2022.](https://i.imgur.com/hNQy2lQ.png)
 
 > Inspirado no T-Rex Game do navegador Google Chrome, o projeto nomeado “Escape From Earth” trata-se de um jogo 2D escrito em Python com recursos da biblioteca PyOpenGL para a disciplina de Computação Gráfica da Universidade La Salle em Canoas - RS.
 
