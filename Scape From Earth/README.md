@@ -8,4 +8,4 @@
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a biblioteca [`PyOpenGL`](https://pypi.org/project/PyOpenGL/).
-* Você instalou a biblioteca `[PyGame](https://www.pygame.org/)`.
+* Você instalou a biblioteca [`PyGame`](https://www.pygame.org/).
